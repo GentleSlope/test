@@ -1,0 +1,1 @@
+mysql> select* from stuinfo where 学号 = xxxxxxxxxx;
